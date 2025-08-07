@@ -1,0 +1,1 @@
+"This is my first project on GitHub, created to practice version control and project management using Git."
